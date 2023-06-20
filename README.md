@@ -11,3 +11,7 @@ A descriptor dataset is prepared to train and evaluate the regression models. Re
 Several regression models are chosen for comparison, including Random Forest Regression and others. Each model is trained using the prepared descriptor dataset.
 # Model Evaluation
 The performance of each regression model is evaluated using appropriate evaluation metrics, such as mean squared error (MSE), root mean squared error (RMSE), and coefficient of determination (R-squared). The results are compared to identify the most effective model for predicting drug-target interactions.
+# Disclaimer:
+This project builds upon the work of the 'Data Professor' and utilizes the ChEMBL bioactivity data. The author, Alex Oyinola Adedayo, acknowledges the inspiration and resources provided by the 'bioinformatics_freecodecamp' GitHub repository and 'Data Professor' YouTube channel.
+# Note 
+For a detailed understanding of the implementation and code used in this project, please refer to the original GitHub repository and YouTube channel mentioned in the report.
