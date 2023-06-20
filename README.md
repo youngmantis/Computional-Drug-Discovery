@@ -15,4 +15,4 @@ The performance of each regression model is evaluated using appropriate evaluati
 This project builds upon the work of the 'Data Professor' and utilizes the ChEMBL bioactivity data. The author, Alex Oyinola Adedayo, acknowledges the inspiration and resources provided by the 'bioinformatics_freecodecamp' GitHub repository and 'Data Professor' YouTube channel.
 # Note 
 For a detailed understanding of the implementation and code used in this project, please refer to the original GitHub repository and YouTube channel mentioned in the report.
-# Please refer to the Jupyter Notebook in this repository for a detailed analysis of the dataset.
+### Please refer to the Jupyter Notebook in this repository for a detailed analysis of the dataset.
