@@ -1,6 +1,12 @@
 # Comparison of Regression Models for Predicting Drug-Target Interactions
 # Introduction
-This project presents a comprehensive analysis of various regression models for predicting drug-target interactions. The project is inspired by the work done by the 'Data Professor' on the 'bioinformatics_freecodecamp' GitHub repository and YouTube channel.
+This project presents a comprehensive analysis that compare various regression models for predicting the biological activity of biological targets inhibitors.
+
+Research questions:
+1. Which regression models demonstrate the highest predictive accuracy for biological target inhibitors' activity?
+2. How does the performance of traditional regression models (e.g., linear regression) compare to more advanced machine learning techniques (e.g., random forests, support vector machines, deep neural network) in predicting biological activity?
+3. Does the choice of molecular descriptors (e.g., structural, physicochemical properties) impact the performance of regression models in predicting biological activity?
+4. Can ensemble techniques further enhance the predictive accuracy of regression models for biological activity prediction?
 # Data Collection and Pre-Processing
 The ChEMBL bioactivity data is collected and pre-processed to ensure data quality and consistency. Any necessary data cleaning steps are performed to prepare the dataset for model training and evaluation.
 # Exploratory Data Analysis
@@ -10,7 +16,7 @@ A descriptor dataset is prepared to train and evaluate the regression models. Re
 # Regression Model Selection
 Several regression models are chosen for comparison, including Random Forest Regression and others. Each model is trained using the prepared descriptor dataset.
 # Model Evaluation
-The performance of each regression model is evaluated using appropriate evaluation metrics, such as mean squared error (MSE), root mean squared error (RMSE), and coefficient of determination (R-squared). The results are compared to identify the most effective model for predicting drug-target interactions.
+The performance of each regression model is evaluated using appropriate evaluation metrics, such as mean squared error (MSE), root mean squared error (RMSE), mean absolute error (MAE) and coefficient of determination (R-squared). The results are compared to identify the most effective model for predicting drug-target interactions.
 # Disclaimer:
 This project builds upon the work of the 'Data Professor' and utilizes the ChEMBL bioactivity data. The author, Alex Oyinola Adedayo, acknowledges the inspiration and resources provided by the 'bioinformatics_freecodecamp' GitHub repository and 'Data Professor' YouTube channel.
 # Note 
