@@ -23,7 +23,9 @@ This project builds upon the work of the 'Data Professor' and utilizes the ChEMB
 # Note
 Please refer to the Notebooks in this repository for detailed analysis of the dataset. Below are some of the Notebooks to expedite the process:
   https://github.com/youngmantis/Computional-Drug-Discovery/blob/main/CDD_Arachidonate_5_lipoxygenase.ipynb
+  
   https://github.com/youngmantis/Computional-Drug-Discovery/blob/main/CDD_Cytochrome_P450_2B6_Model_Compare.ipynb
+  
   https://github.com/youngmantis/Computional-Drug-Discovery/blob/main/Alkaline_phosphatase_tissue_nonspecific_Regression_Models_Comparison.ipynb
 # Other Repositories
 Check out some of my other repositories. Explore https://github.com/youngmantis/2023-NIgeria-Presidential-Election-Results-Analysis-and-Visualization for the detailed analysis of the 2023 Nigerian election. Also checkout https://github.com/youngmantis/Covid19-Exploratory-Data-Analysis for the exploratory data analysis and XGBOOST model on Covid19-global-forecasting competition on Kaggle. You can also checkout my SQL portfolio https://github.com/youngmantis/SQL-Projects
