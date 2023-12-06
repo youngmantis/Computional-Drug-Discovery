@@ -18,8 +18,6 @@ https://drive.google.com/drive/folders/17K-DZCuZya1gBdl7TFEEhk-L89SO6Jce
 Several regression models are chosen for comparison, including Random Forest Regression and others. Each model is trained using the prepared descriptor dataset.
 # Model Evaluation
 The performance of each regression model is evaluated using appropriate evaluation metrics, such as mean squared error (MSE), root mean squared error (RMSE), mean absolute error (MAE) and coefficient of determination (R-squared). The results are compared to identify the most effective model for predicting drug-target interactions.
-# Disclaimer:
-This project builds upon the work of the 'Data Professor' and utilizes the ChEMBL bioactivity data. The author, Alex Oyinola Adedayo, acknowledges the inspiration and resources provided by the 'Data Professor' GitHub repository: https://github.com/dataprofessor/bioinformatics_freecodecamp/ and 'freeCodeCamp' YouTube channel: https://www.youtube.com/watch?v=jBlTQjcKuaY&t=300s&pp=ygUqZGF0YSBwcm9mZXNzb3IgYmlvaW5mb3JtYXRpY3NfZnJlZWNvZGVjYW1w.
 # Note
 Please refer to the Notebooks in this repository for detailed analysis of the dataset. Below are some of the Notebooks to expedite the process:
   
@@ -30,3 +28,5 @@ Please refer to the Notebooks in this repository for detailed analysis of the da
   https://github.com/youngmantis/Computional-Drug-Discovery/blob/main/Alkaline_phosphatase_tissue_nonspecific_Regression_Models_Comparison.ipynb
 # Other Repositories
 Check out some of my other repositories. Explore https://github.com/youngmantis/2023-NIgeria-Presidential-Election-Results-Analysis-and-Visualization for the detailed analysis of the 2023 Nigerian election. Also checkout https://github.com/youngmantis/Covid19-Exploratory-Data-Analysis for the exploratory data analysis and XGBOOST model on Covid19-global-forecasting competition on Kaggle. You can also checkout my SQL portfolio https://github.com/youngmantis/SQL-Projects
+# Disclaimer:
+This project builds upon the work of the 'Data Professor' and utilizes the ChEMBL bioactivity data. The author, Alex Oyinola Adedayo, acknowledges the inspiration and resources provided by the 'Data Professor' GitHub repository: https://github.com/dataprofessor/bioinformatics_freecodecamp/ and 'freeCodeCamp' YouTube channel: https://www.youtube.com/watch?v=jBlTQjcKuaY&t=300s&pp=ygUqZGF0YSBwcm9mZXNzb3IgYmlvaW5mb3JtYXRpY3NfZnJlZWNvZGVjYW1w.
