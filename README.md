@@ -22,6 +22,7 @@ The performance of each regression model is evaluated using appropriate evaluati
 This project builds upon the work of the 'Data Professor' and utilizes the ChEMBL bioactivity data. The author, Alex Oyinola Adedayo, acknowledges the inspiration and resources provided by the 'Data Professor' GitHub repository: https://github.com/dataprofessor/bioinformatics_freecodecamp/ and 'freeCodeCamp' YouTube channel: https://www.youtube.com/watch?v=jBlTQjcKuaY&t=300s&pp=ygUqZGF0YSBwcm9mZXNzb3IgYmlvaW5mb3JtYXRpY3NfZnJlZWNvZGVjYW1w.
 # Note
 Please refer to the Notebooks in this repository for detailed analysis of the dataset. Below are some of the Notebooks to expedite the process:
+  
   https://github.com/youngmantis/Computional-Drug-Discovery/blob/main/CDD_Arachidonate_5_lipoxygenase.ipynb
   
   https://github.com/youngmantis/Computional-Drug-Discovery/blob/main/CDD_Cytochrome_P450_2B6_Model_Compare.ipynb
