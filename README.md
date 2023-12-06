@@ -17,7 +17,7 @@ https://drive.google.com/drive/folders/17K-DZCuZya1gBdl7TFEEhk-L89SO6Jce
 # Regression Model Selection
 Several regression models are chosen for comparison, including Random Forest Regression and others. Each model is trained using the prepared descriptor dataset.
 # Model Evaluation
-The performance of each regression model is evaluated using appropriate evaluation metrics, such as mean squared error (MSE), root mean squared error (RMSE), mean absolute error (MAE) and coefficient of determination (R-squared). The results are compared to identify the most effective model for predicting drug-target interactions.
+The performance of each regression model is evaluated using appropriate evaluation metrics, such as root mean squared error (RMSE), mean absolute error (MAE), coefficient of determination (R-squared and Adjusted R-Squared). The results are compared to identify the most effective model for predicting drug-target interactions.
 # Note
 Please refer to the Notebooks in this repository for detailed analysis of the dataset. Below are some of the Notebooks to expedite the process:
   
